@@ -9,4 +9,14 @@ Make sure you have create-react-app installed globally
 npm install -g create-react-app
 ```
 
+Clone this repository and npm install or yarn install
+```git
+npm install
+```
+
+Launch application
+```git
+npm start
+```
+
 
