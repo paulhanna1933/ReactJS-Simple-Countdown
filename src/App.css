@@ -1,0 +1,29 @@
+body {
+  background: #00F260;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.App {
+  text-align: center;
+  font-size: 35px;
+  margin: 10%;
+  /* border: 2px solid blue; */
+  border-radius: 20px;
+  padding: 50px;
+  background-color: white;
+}
+
+.App-title {
+  font-size: 45px;
+}
+
+.Clock-days, .Clock-hours, .Clock-minutes, .Clock-seconds {
+  display: inline;
+  margin: 10px;
+}
+
+.Deadline-input {
+  font-size: 25px;
+  margin: 5px;
+}
